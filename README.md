@@ -1,7 +1,7 @@
 # CNP4-Nsp13-C-terminus-B
 An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 4) devoted to a site on the SARS-CoV-2 Non-structural protein 13 (NSP13)
 
-The site of interest is "site 16" referred to by [this paper](https://www.nature.com/articles/s41467-021-25166-6) that reported the original fragment screen.
+The site of interest is "C-terminus-B" referred to by [this paper](https://www.nature.com/articles/s41467-021-25166-6) that reported the original fragment screen.
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open.
 
