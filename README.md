@@ -1,7 +1,7 @@
 # CNP4-Nsp13-C-terminus-B
 An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 4) devoted to a site on the SARS-CoV-2 Non-structural protein 13 (NSP13)
 
-The site of interest is "C-terminus-B" referred to by [this paper](https://www.nature.com/articles/s41467-021-25166-6) that reported the original fragment screen.
+The site of interest is "C-terminus-B" referred to by [this paper](https://www.nature.com/articles/s41467-021-25166-6) that reported the original fragment screen. (Not the RNA or nucleotide site).
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open.
 
@@ -16,14 +16,16 @@ If you'd like to contact someone to talk about contributing, then write somethin
 Current scientific status of the project is on the [wiki](https://github.com/StructuralGenomicsConsortium/CNP4-Nsp13-C-terminus-B/wiki) (you can always find the relevant tab above). The current version of the research paper describing this project is NEEDED here and is a great place to start if you're new to all this.
 
 Some humans involved in this CNP:  
-Professor Tim Willson, University of North Carolina Chapel Hill.
-Professor Alex Tropsha, University of North Carolina Chapel Hill.
-Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC.  
-Dr Santha Santhakumar, Project Manager at the Structural Genomics Consortium  
+Professor Tim Willson, University of North Carolina Chapel Hill (medchem)  
+Professor Alex Tropsha, University of North Carolina Chapel Hill (computational chem)  
+Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem)  
+Dr Santha Santhakumar, SGC (project management)    
+Dr Masoud Vedadi, SGC Toronto (biology)  
+
 Industry Mentor: vacant.    
 The Sir James Murray Student Coordinator: vacant.  
 
-You can see contributors in the Issues (tab above).
+You can see other contributors in the Issues (tab above).
 
 
 
