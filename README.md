@@ -5,11 +5,11 @@ The site of interest is "C-terminus-B" referred to by [this paper](https://www.n
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
-If this sounds interesting, and you agree to the simple RULES (link to SGC page coming!), you can get started.
+If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
 For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP4-Nsp13-C-terminus-B/wiki). 
 
-For answers to all the questions you have, go to the FAQs (link to SGC Networks page coming!).
+For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
 If you'd like to contact someone to talk about contributing, then write something in an [Issue](https://github.com/StructuralGenomicsConsortium/CNP4-Nsp13-C-terminus-B/issues) (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions.
 
@@ -26,7 +26,7 @@ Dr Santha Santhakumar, SGC (project management)
 Dr Masoud Vedadi, SGC Toronto (biology)  
 
 Industry Mentor: vacant.    
-The Sir James Murray Student Coordinator: vacant.  
+The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): vacant.  
 
 You can see other contributors in the Issues (tab above).
 
