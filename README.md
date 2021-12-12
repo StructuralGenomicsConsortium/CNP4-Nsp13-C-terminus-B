@@ -26,7 +26,7 @@ Dr Santha Santhakumar, SGC (project management)
 Dr Masoud Vedadi, SGC Toronto (biology)  
 
 Industry Mentor: vacant.    
-The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): vacant.  
+The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Tom Knight (University College London), @TomkUCL.  
 
 You can see other contributors in the Issues (tab above).
 
