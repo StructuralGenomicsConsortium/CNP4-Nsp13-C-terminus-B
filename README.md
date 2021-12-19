@@ -7,7 +7,7 @@ You contribute synthetic chemistry and in return the SGC offers biology. Togethe
 
 If this sounds interesting, and you agree to the simple [RULES](https://www.thesgc.org/sgc-open-chemistry-networks/terms-of-use), you can get started.
 
-For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP4-Nsp13-C-terminus-B/wiki) or check out the living paper that is being written [here](https://docs.google.com/document/d/16e_yZ9joQDpFkxyyfJj_dWWr5ZW_HEya9e_PG8kaF5M/edit?usp=sharing).
+For the science background, head to the [wiki](https://github.com/StructuralGenomicsConsortium/CNP4-Nsp13-C-terminus-B/wiki) or check out the living paper that is being written [here](https://docs.google.com/document/d/16e_yZ9joQDpFkxyyfJj_dWWr5ZW_HEya9e_PG8kaF5M/edit?usp=sharing) (link is also https://tinyurl.com/SGC-CNP4).
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
