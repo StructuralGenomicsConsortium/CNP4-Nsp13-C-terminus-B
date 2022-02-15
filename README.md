@@ -25,7 +25,7 @@ Dr [Hebaallah Agha](https://pharmacy.unc.edu/research/centers/sgc-unc/people/), 
 Dr Santha Santhakumar, SGC (project management)    
 Dr Masoud Vedadi, SGC Toronto (biology)  
 
-Industry Mentor: vacant.    
+[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Dr James Day, Astex Pharmaceuticals.    
 The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Tom Knight (University College London), @TomkUCL.  
 
 You can see other contributors in the Issues (tab above).
