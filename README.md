@@ -11,7 +11,7 @@ For the science background, head to the [wiki](https://github.com/StructuralGeno
 
 For answers to all the questions you have, go to the [FAQs](https://www.thesgc.org/sgc-open-chemistry-networks/faq).
 
-If you'd like to contact someone to talk about contributing, then write something in an [Issue](https://github.com/StructuralGenomicsConsortium/CNP4-Nsp13-C-terminus-B/issues) (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. There's also an email address (chemistry@thesgc.org) you can use to ask questions.
+If you'd like to contact someone to talk about contributing, then write something in an [Issue](https://github.com/StructuralGenomicsConsortium/CNP4-Nsp13-C-terminus-B/issues) (see the tab above), which is a good way to communicate openly. (Issues describe what currently needs doing and act as a discussion forum - you need a Github account but it's super easy and not spammy. To tag everyone involved in this project on Github use "@StructuralGenomicsConsortium/cnp4-nsp13". There's also an email address (chemistry@thesgc.org) you can use to ask questions.
 
 Current scientific status of the project is on the [wiki](https://github.com/StructuralGenomicsConsortium/CNP4-Nsp13-C-terminus-B/wiki) (you can always find the relevant tab above). The current version of the research paper describing this project is NEEDED here and is a great place to start if you're new to all this.
 
