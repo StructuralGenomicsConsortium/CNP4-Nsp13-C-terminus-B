@@ -15,7 +15,7 @@ If you'd like to contact someone to talk about contributing, then write somethin
 
 Current scientific status of the project is on the [wiki](https://github.com/StructuralGenomicsConsortium/CNP4-Nsp13-C-terminus-B/wiki) (you can always find the relevant tab above). The current version of the research paper describing this project is NEEDED here and is a great place to start if you're new to all this.
 
-Some humans involved in this CNP:  
+Some humans involved in this Open Chemistry Networks Project:  
 Professor Tim Willson, University of North Carolina Chapel Hill (medchem)  @tmw20653  
 Professor Alex Tropsha, University of North Carolina Chapel Hill (computational chem)  
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd  
@@ -32,6 +32,10 @@ Dr Anwar Hossain, University of North Carolina Chapel Hill (medchem) @ahsgc
 The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Tom Knight (University College London), @TomkUCL.  
 
 You can see other contributors in the Issues (tab above).
+
+**Online meetings** for this project:
+Fortnightly half-hour catch-ups looking at details. Not recorded. Alternate Fridays at 1:30pm UK time at https://ucl.zoom.us/j/96175412490  
+Monthly big picture meetings involving the Pharma Champion. Recorded and put online. Second Monday of each month at 5pm UK time. https://ucl.zoom.us/j/97172937586  
 
 The licence for the content of this project is, unless otherwise stated, and as for all OCN projects, CC-BY-4.0. This means you can do whatever you like with the project content, including making money, provided you cite the project.
 
