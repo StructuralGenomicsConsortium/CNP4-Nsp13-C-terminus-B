@@ -19,13 +19,16 @@ Some humans involved in this CNP:
 Professor Tim Willson, University of North Carolina Chapel Hill (medchem)  @tmw20653  
 Professor Alex Tropsha, University of North Carolina Chapel Hill (computational chem)  
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) @mattodd  
+Tom Knight, University College London (medchem) @TomkUCL
 Dr Edwin Tse, University College London (medchem) @edwintse  
 Professor [Konstantin Popov](https://www.med.unc.edu/biochem/directory/popov/), University of North Carolina Chapel Hill (computational chem) @kipUNC  
 Dr [Hebaallah Agha](https://pharmacy.unc.edu/research/centers/sgc-unc/people/), University of North Carolina Chapel Hill (medchem) @H-agha  
-Dr Santha Santhakumar, SGC (project management)    
+Dr Santha Santhakumar, SGC (project management) @Santha-SGC     
 Dr Masoud Vedadi, SGC Toronto (biology)  
+Dr Sumera Malik, SGC Toronto (protein science) @SumeraMalik123  
+Dr Anwar Hossain, University of North Carolina Chapel Hill (medchem) @ahsgc  
 
-[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Dr James Day, Astex Pharmaceuticals.    
+[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Dr James Day, Astex Pharmaceuticals @jamesday100    
 The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Tom Knight (University College London), @TomkUCL.  
 
 You can see other contributors in the Issues (tab above).
