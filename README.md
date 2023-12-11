@@ -28,7 +28,7 @@ Dr Masoud Vedadi, SGC Toronto (biology)
 Dr Sumera Malik, SGC Toronto (protein science) @SumeraMalik123  
 Dr Anwar Hossain, University of North Carolina Chapel Hill (medchem) @ahsgc  
 
-[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Dr James Day, Astex Pharmaceuticals @jamesday100    
+[Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Dr James Day, Astex Pharmaceuticals @jamesday100 (Feb 2022-Dec 2023), currently vacant.   
 The [Sir James Murray Student Champion](https://www.thesgc.org/sgc-open-chemistry-networks/champions-program): Tom Knight (University College London), @TomkUCL.  
 
 You can see other contributors in the Issues (tab above).
